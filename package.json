@@ -1,0 +1,29 @@
+{
+  "name": "postcss-mq-split",
+  "version": "1.0.0",
+  "description": "Split all custom media queries with specified name to external file",
+  "main": "index.js",
+  "dependencies": {
+    "fs-exists-sync": "^0.1.0",
+    "postcss": "^6.0.13",
+    "write": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/reindeer/postcss-mq-split.git"
+  },
+  "keywords": [
+    "postcss",
+    "mediaquery"
+  ],
+  "author": "Denis Daschenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reindeer/postcss-mq-split/issues"
+  },
+  "homepage": "https://github.com/reindeer/postcss-mq-split#readme"
+}
